@@ -1,0 +1,16 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"/Users/valentynakadlecova/Desktop/UnrealProjects/Kadlecova-G300-Week6/Week6_ObstacleCourse/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"/Users/valentynakadlecova/Desktop/UnrealProjects/Kadlecova-G300-Week6/Week6_ObstacleCourse/Content/ThirdPerson/Blueprints/BP_GameInstance.uasset",
+				"/Users/valentynakadlecova/Desktop/UnrealProjects/Kadlecova-G300-Week6/Week6_ObstacleCourse/Content/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.uasset",
+				"/Users/valentynakadlecova/Desktop/UnrealProjects/Kadlecova-G300-Week6/Week6_ObstacleCourse/Content/ThirdPerson/Blueprints/BP_THHUD.uasset",
+				"/Users/valentynakadlecova/Desktop/UnrealProjects/Kadlecova-G300-Week6/Week6_ObstacleCourse/Content/ThirdPerson/Blueprints/BP_ScoreWidget.uasset"
+			]
+		}
+	]
+}
